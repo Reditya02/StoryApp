@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_story"
+        android:title="@string/add_story" />
+
+    <item android:id="@+id/language"
+        android:title="@string/ganti_bahasa"/>
+
+    <item android:id="@+id/map"
+        android:title="@string/buka_peta" />
+
+    <item android:id="@+id/logout"
+        android:title="@string/log_out" />
+</menu>
